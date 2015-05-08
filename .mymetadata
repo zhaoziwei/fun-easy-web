@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fun-easy-web"
+  id="myeclipse.1430749970718"
+  context-root="/sys"
+  j2ee-spec="1.7"
+  archive="fun-easy-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
